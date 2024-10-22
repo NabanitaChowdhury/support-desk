@@ -1,0 +1,13 @@
+.input-field-container {
+    width: 100%;
+
+    .input-field {
+        padding: 12px 20px;
+        border: 1px solid yellow;
+        border-radius: 4px;
+    }
+    .input-label {
+    
+    }
+}
+
